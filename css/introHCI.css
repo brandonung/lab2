@@ -12,8 +12,16 @@
 /* this style exists to make it obvious that you've successfully linked
    the CSS to the page. feel free to remove it once the link is working. */
 body {
-     border: 1px dotted gray;
+     border: 1px solid green;
      padding: 20px;
+}
+
+.project {
+     margin-left: 20px;
+}
+
+#project1, #project3, #project6 {
+     font-variant: small-caps;
 }
 
 .jumbotron {
